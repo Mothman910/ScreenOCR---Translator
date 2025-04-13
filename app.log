@@ -167,3 +167,9 @@
 2025-04-13 21:06:08,194 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
 2025-04-13 21:06:08,204 - popup - INFO - Wyœwietlono popup z t³umaczeniem
 2025-04-13 21:06:13,211 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-13 21:06:47,391 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 21:06:47,446 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 21:06:47,487 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-13 21:06:47,488 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-13 21:06:47,488 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 21:06:47,489 - main - INFO - Aplikacja uruchomiona pomyœlnie

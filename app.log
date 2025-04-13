@@ -1,0 +1,169 @@
+2025-04-13 20:43:21,204 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 20:43:21,295 - settings - INFO - Tworzenie domyœlnych ustawieñ
+2025-04-13 20:43:21,297 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-13 20:43:21,321 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 20:43:21,326 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 20:43:38,378 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-13 20:43:45,512 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 20:43:54,335 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 20:44:12,645 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 20:44:12,700 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 20:44:12,715 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 20:44:12,716 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 20:44:15,671 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-13 20:44:20,335 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 20:47:21,950 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 20:47:21,992 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 20:49:41,743 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 20:49:41,784 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 20:49:41,831 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-13 20:49:41,831 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-13 20:49:41,831 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 20:49:41,832 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 20:49:58,760 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 20:49:58,760 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 20:49:58,762 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 20:50:18,412 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 20:50:18,451 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 20:50:18,491 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-13 20:50:18,491 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-13 20:50:18,492 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 20:50:18,493 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 20:50:26,136 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 20:50:26,136 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 20:50:26,137 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 20:50:42,697 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 20:50:42,738 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 20:50:42,779 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-13 20:50:42,780 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-13 20:50:42,780 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 20:50:42,781 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 20:50:51,320 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 20:50:51,320 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 20:50:51,321 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:00:34,893 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 21:00:34,934 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 21:00:34,974 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-13 21:00:34,974 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-13 21:00:34,974 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 21:00:34,976 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 21:00:41,912 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:00:41,912 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:00:41,913 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:01:49,355 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-13 21:01:49,396 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-13 21:01:49,449 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-13 21:01:49,449 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-13 21:01:49,449 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-13 21:01:49,451 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-13 21:03:37,921 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:03:37,921 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:03:37,922 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:03:42,479 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210342.png
+2025-04-13 21:03:42,479 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210342.png
+2025-04-13 21:03:42,490 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-13 21:03:42,490 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210342.png
+2025-04-13 21:03:42,492 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-13 21:03:42,492 - ocr_engine - INFO - Znaleziono Tesseract w folderze projektu: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:03:42,492 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:03:42,493 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-13 21:03:42,493 - ocr_engine - INFO - Znaleziono tessdata w folderze projektu: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:03:42,493 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:03:42,493 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-13 21:03:42,493 - translator - INFO - Translator zainicjowany
+2025-04-13 21:03:42,493 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210342.png
+2025-04-13 21:03:44,135 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-13 21:03:44,135 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-13 21:03:45,372 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-13 21:03:45,372 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-13 21:03:45,426 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-13 21:03:50,440 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-13 21:04:34,729 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:04:34,729 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:04:34,729 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:04:41,043 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210441.png
+2025-04-13 21:04:41,043 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210441.png
+2025-04-13 21:04:41,052 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-13 21:04:41,052 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210441.png
+2025-04-13 21:04:41,052 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:04:41,052 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:04:41,052 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-13 21:04:41,053 - translator - INFO - Translator zainicjowany
+2025-04-13 21:04:41,053 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210441.png
+2025-04-13 21:04:41,470 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-13 21:04:41,470 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-13 21:04:42,324 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-13 21:04:42,324 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-13 21:04:42,334 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-13 21:04:47,348 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-13 21:04:53,450 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:04:53,450 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:04:53,450 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:04:58,026 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210458.png
+2025-04-13 21:04:58,026 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210458.png
+2025-04-13 21:04:58,034 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-13 21:04:58,034 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210458.png
+2025-04-13 21:04:58,034 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:04:58,034 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:04:58,034 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-13 21:04:58,034 - translator - INFO - Translator zainicjowany
+2025-04-13 21:04:58,034 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210458.png
+2025-04-13 21:04:58,222 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-13 21:04:58,222 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-13 21:04:58,222 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-13 21:04:58,232 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-13 21:05:01,687 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-13 21:05:07,864 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:05:07,864 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:05:07,864 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:05:11,950 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210511.png
+2025-04-13 21:05:11,950 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210511.png
+2025-04-13 21:05:11,959 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-13 21:05:11,959 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210511.png
+2025-04-13 21:05:11,960 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:05:11,960 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:05:11,960 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-13 21:05:11,960 - translator - INFO - Translator zainicjowany
+2025-04-13 21:05:11,960 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210511.png
+2025-04-13 21:05:12,212 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-13 21:05:12,212 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-13 21:05:12,306 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-13 21:05:12,306 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-13 21:05:12,317 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-13 21:05:17,320 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-13 21:05:37,248 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:05:37,248 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:05:37,248 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:05:44,124 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210544.png
+2025-04-13 21:05:44,124 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210544.png
+2025-04-13 21:05:44,133 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-13 21:05:44,133 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210544.png
+2025-04-13 21:05:44,134 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:05:44,134 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:05:44,134 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-13 21:05:44,134 - translator - INFO - Translator zainicjowany
+2025-04-13 21:05:44,134 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210544.png
+2025-04-13 21:05:44,483 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-13 21:05:44,483 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-13 21:05:45,009 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-13 21:05:45,010 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-13 21:05:45,021 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-13 21:05:50,024 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-13 21:06:02,537 - tray_icon - INFO - Wywo³ano akcjê przechwytywania ekranu
+2025-04-13 21:06:02,537 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-13 21:06:02,537 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-13 21:06:07,859 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210607.png
+2025-04-13 21:06:07,859 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210607.png
+2025-04-13 21:06:07,867 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-13 21:06:07,868 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210607.png
+2025-04-13 21:06:07,868 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-13 21:06:07,868 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-13 21:06:07,868 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-13 21:06:07,868 - translator - INFO - Translator zainicjowany
+2025-04-13 21:06:07,868 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250413_210607.png
+2025-04-13 21:06:08,089 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-13 21:06:08,089 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-13 21:06:08,193 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-13 21:06:08,194 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-13 21:06:08,204 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-13 21:06:13,211 - popup - INFO - Zamkniêto popup z t³umaczeniem

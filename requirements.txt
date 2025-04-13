@@ -1,0 +1,23 @@
+# Wymagane biblioteki dla projektu ScreenOCR & Translator
+
+# Interfejs użytkownika i obsługa systemu
+PyQt6>=6.5.0
+infi.systray>=0.1.12
+pynput>=1.7.6
+
+# OCR i przetwarzanie obrazu
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Tłumaczenia
+googletrans>=4.0.0-rc1
+deepl>=1.15.0
+
+# Narzędzia pomocnicze
+pyperclip>=1.8.2
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Pakowanie aplikacji
+pyinstaller>=6.0.0

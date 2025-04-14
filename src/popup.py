@@ -8,7 +8,8 @@ Moduł odpowiedzialny za wyświetlanie pop-upu z tłumaczeniem.
 import logging
 import pyperclip
 from PyQt6.QtWidgets import (
-    QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout, QFrame, QGraphicsDropShadowEffect
+    QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout, QFrame, 
+    QGraphicsDropShadowEffect, QScrollArea, QSizePolicy
 )
 from PyQt6.QtCore import Qt, QTimer, QPoint, QRect, pyqtSignal
 from PyQt6.QtGui import QColor, QFont, QPalette, QGuiApplication, QScreen
@@ -28,6 +29,7 @@ class TranslationPopup(QWidget):
         self.auto_hide_timer = None
         self.original_text = ""
         self.translated_text = ""
+        self.resize_mode = False
         
         self.setup_ui()
         
@@ -43,11 +45,13 @@ class TranslationPopup(QWidget):
         # Wymiary pop-upu
         width = self.settings.get('popup', 'width')
         height = self.settings.get('popup', 'height')
-        self.setFixedSize(width, height)
+        self.setMinimumSize(300, 200)
+        self.resize(width, height)
         
         # Główny układ
         main_layout = QVBoxLayout()
         main_layout.setContentsMargins(10, 10, 10, 10)
+        main_layout.setSpacing(0)
         
         # Panel główny
         self.main_panel = QFrame()
@@ -64,13 +68,30 @@ class TranslationPopup(QWidget):
         
         # Układ panelu głównego
         panel_layout = QVBoxLayout(self.main_panel)
+        panel_layout.setContentsMargins(10, 10, 10, 10)
+        panel_layout.setSpacing(5)
+        
+        # Obszar przewijania dla oryginalnego tekstu
+        self.original_scroll = QScrollArea()
+        self.original_scroll.setWidgetResizable(True)
+        self.original_scroll.setFrameShape(QFrame.Shape.NoFrame)
+        self.original_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAsNeeded)
+        self.original_scroll.setVerticalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAsNeeded)
+        
+        # Kontener dla oryginalnego tekstu
+        self.original_container = QWidget()
+        self.original_container_layout = QVBoxLayout(self.original_container)
+        self.original_container_layout.setContentsMargins(0, 0, 10, 0)  # Dodajemy prawy margines dla paska przewijania
         
         # Etykieta z oryginalnym tekstem
         self.original_label = QLabel()
         self.original_label.setWordWrap(True)
         self.original_label.setTextInteractionFlags(Qt.TextInteractionFlag.TextSelectableByMouse)
         self.original_label.setFont(QFont("Arial", 10, QFont.Weight.Normal))
-        panel_layout.addWidget(self.original_label)
+        self.original_container_layout.addWidget(self.original_label)
+        
+        self.original_scroll.setWidget(self.original_container)
+        panel_layout.addWidget(self.original_scroll)
         
         # Separator
         separator = QFrame()
@@ -78,29 +99,48 @@ class TranslationPopup(QWidget):
         separator.setFrameShadow(QFrame.Shadow.Sunken)
         panel_layout.addWidget(separator)
         
+        # Obszar przewijania dla tłumaczenia
+        self.translation_scroll = QScrollArea()
+        self.translation_scroll.setWidgetResizable(True)
+        self.translation_scroll.setFrameShape(QFrame.Shape.NoFrame)
+        self.translation_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAsNeeded)
+        self.translation_scroll.setVerticalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAsNeeded)
+        
+        # Kontener dla tłumaczenia
+        self.translation_container = QWidget()
+        self.translation_container_layout = QVBoxLayout(self.translation_container)
+        self.translation_container_layout.setContentsMargins(0, 0, 10, 0)  # Dodajemy prawy margines dla paska przewijania
+        
         # Etykieta z tłumaczeniem
         self.translation_label = QLabel()
         self.translation_label.setWordWrap(True)
         self.translation_label.setTextInteractionFlags(Qt.TextInteractionFlag.TextSelectableByMouse)
         self.translation_label.setFont(QFont("Arial", 11, QFont.Weight.Bold))
-        panel_layout.addWidget(self.translation_label)
+        self.translation_container_layout.addWidget(self.translation_label)
         
-        # Układ przycisków
-        button_layout = QHBoxLayout()
+        self.translation_scroll.setWidget(self.translation_container)
+        panel_layout.addWidget(self.translation_scroll, 1)  # Dajemy większy współczynnik rozciągania
+        
+        # Panel przycisków w oddzielnym widgecie, aby zawsze był widoczny
+        self.button_panel = QWidget()
+        button_layout = QHBoxLayout(self.button_panel)
+        button_layout.setContentsMargins(0, 5, 0, 0)
         
         # Przycisk kopiowania
         self.copy_button = QPushButton("Kopiuj")
         self.copy_button.setToolTip("Kopiuj tłumaczenie do schowka")
         self.copy_button.clicked.connect(self.copy_translation)
+        self.copy_button.setMinimumHeight(30)
         button_layout.addWidget(self.copy_button)
         
         # Przycisk zamknięcia
         self.close_button = QPushButton("Zamknij")
         self.close_button.setToolTip("Zamknij okno tłumaczenia")
         self.close_button.clicked.connect(self.close_popup)
+        self.close_button.setMinimumHeight(30)
         button_layout.addWidget(self.close_button)
         
-        panel_layout.addLayout(button_layout)
+        panel_layout.addWidget(self.button_panel)
         
         main_layout.addWidget(self.main_panel)
         self.setLayout(main_layout)
@@ -141,6 +181,40 @@ class TranslationPopup(QWidget):
                 background-color: {text_color};
                 color: {bg_color};
             }}
+            QScrollBar:vertical {{
+                border: none;
+                background: rgba(0, 0, 0, 0.1);
+                width: 8px;
+                margin: 0px 0px 0px 0px;
+                border-radius: 4px;
+            }}
+            QScrollBar::handle:vertical {{
+                background: rgba({text_color}, 0.5);
+                min-height: 20px;
+                border-radius: 4px;
+            }}
+            QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {{
+                height: 0px;
+            }}
+            QScrollBar:horizontal {{
+                border: none;
+                background: rgba(0, 0, 0, 0.1);
+                height: 8px;
+                margin: 0px 0px 0px 0px;
+                border-radius: 4px;
+            }}
+            QScrollBar::handle:horizontal {{
+                background: rgba({text_color}, 0.5);
+                min-width: 20px;
+                border-radius: 4px;
+            }}
+            QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {{
+                width: 0px;
+            }}
+            QScrollArea {{
+                border: none;
+                background: transparent;
+            }}
         """
         self.setStyleSheet(style_sheet)
     
@@ -151,14 +225,22 @@ class TranslationPopup(QWidget):
         
         # Sprawdzenie, czy pokazywać oryginalny tekst
         show_original = self.settings.get('popup', 'show_original')
-        if show_original:
+        if show_original and original_text.strip():
             self.original_label.setText(f"<i>{original_text}</i>")
-            self.original_label.show()
+            self.original_scroll.setMaximumHeight(int(self.height() * 0.3))
+            self.original_scroll.show()
         else:
-            self.original_label.hide()
+            self.original_scroll.hide()
+            separator = self.main_panel.findChild(QFrame)
+            if separator:
+                separator.hide()
         
         # Ustawienie tekstu tłumaczenia
         self.translation_label.setText(translated_text)
+        
+        # Dostosowanie rozmiaru głównego kontenera
+        self.translation_container.adjustSize()
+        self.original_container.adjustSize()
         
         # Pozycjonowanie pop-upu
         self.position_popup()
@@ -220,9 +302,27 @@ class TranslationPopup(QWidget):
         
         logger.info("Zamknięto popup z tłumaczeniem")
     
+    def resizeEvent(self, event):
+        """Obsługuje zmianę rozmiaru okna."""
+        super().resizeEvent(event)
+        
+        # Zapisanie nowych wymiarów w ustawieniach
+        self.settings.set('popup', 'width', self.width())
+        self.settings.set('popup', 'height', self.height())
+        
+        # Dostosowanie obszarów przewijania
+        if self.settings.get('popup', 'show_original'):
+            self.original_scroll.setMaximumHeight(int(self.height() * 0.3))
+    
     def mousePressEvent(self, event):
         """Obsługa naciśnięcia przycisku myszy."""
         if event.button() == Qt.MouseButton.LeftButton:
+            # Sprawdzenie, czy kliknięcie nastąpiło w przycisk
+            if self.close_button.geometry().contains(event.position().toPoint() - self.button_panel.pos()) or \
+               self.copy_button.geometry().contains(event.position().toPoint() - self.button_panel.pos()):
+                # Przekazanie zdarzenia do przetworzenia przez normalny mechanizm
+                return
+            
             self.dragging = True
             self.drag_position = event.pos()
             
@@ -233,14 +333,25 @@ class TranslationPopup(QWidget):
     def mouseMoveEvent(self, event):
         """Obsługa ruchu myszy."""
         if self.dragging and event.buttons() & Qt.MouseButton.LeftButton:
+            # Tylko przeciąganie, bez zmiany rozmiaru
             self.move(self.pos() + event.pos() - self.drag_position)
     
     def mouseReleaseEvent(self, event):
         """Obsługa zwolnienia przycisku myszy."""
         if event.button() == Qt.MouseButton.LeftButton:
+            was_dragging = self.dragging
             self.dragging = False
             
             # Ponowne uruchomienie timera auto-ukrywania po przeciągnięciu
-            if self.settings.get('popup', 'auto_hide'):
+            if was_dragging and self.settings.get('popup', 'auto_hide'):
                 display_time = self.settings.get('popup', 'display_time') * 1000  # ms
                 self.auto_hide_timer.start(display_time)
+    
+    def mouseDoubleClickEvent(self, event):
+        """Obsługa podwójnego kliknięcia myszy."""
+        if event.button() == Qt.MouseButton.LeftButton:
+            # Implementacja możliwości maksymalizacji/przywracania poprzedniego rozmiaru
+            if self.isMaximized():
+                self.showNormal()
+            else:
+                self.showMaximized()

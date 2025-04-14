@@ -39,7 +39,7 @@ class AboutDialog(QDialog):
         info_label = QLabel(
             "<p style='text-align: center;'>Wersja 1.0.0</p>"
             "<p style='text-align: center;'>Aplikacja do rozpoznawania i tłumaczenia tekstu z ekranu w grach.</p>"
-            "<p style='text-align: center;'>© 2025</p>"
+            "<p style='text-align: center;'>Autor: Adam Fijałkowski © 2025</p>"
         )
         info_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         layout.addWidget(info_label)

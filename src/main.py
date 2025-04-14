@@ -60,16 +60,9 @@ def main():
     # Podłączenie funkcji nasłuchującej do sygnału z menedżera skrótów
     hotkey_manager.capture_hotkey_pressed.connect(on_hotkey_detected)
     
-    # Ustawienie wysokiego poziomu debug dla modułu hotkeys
-    hotkey_logger = logging.getLogger('hotkeys')
-    hotkey_logger.setLevel(logging.DEBUG)
-    
-    # Dodanie handlera do wyświetlania logów w konsoli
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.DEBUG)
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    console_handler.setFormatter(formatter)
-    hotkey_logger.addHandler(console_handler)
+    # Ustawienie odpowiedniego poziomu logowania - DEBUG tylko w trybie deweloperskim
+    if os.environ.get('DEV_MODE') == '1':
+        logging.getLogger('hotkeys').setLevel(logging.DEBUG)
     
     # Uruchomienie nasłuchiwania skrótów
     hotkey_manager.start()

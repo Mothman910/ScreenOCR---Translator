@@ -68,12 +68,15 @@ class HotkeyManager(QObject):
             keyboard.add_hotkey(self.capture_hotkey, capture_callback, suppress=True)
             self.registered_hotkeys.append(self.capture_hotkey)
             
-            # Dodajemy również pojedynczy klawisz F9 jako alternatywny skrót
-            keyboard.add_hotkey('f9', capture_callback, suppress=True)
-            self.registered_hotkeys.append('f9')
+            # Rejestrujemy F9 tylko jeśli nie jest już ustawiony jako główny skrót
+            if self.capture_hotkey.lower() != 'f9':
+                keyboard.add_hotkey('f9', capture_callback, suppress=True)
+                self.registered_hotkeys.append('f9')
+                logger.info(f"Uruchomiono nasłuchiwanie skrótów klawiszowych: {self.capture_hotkey} i F9")
+            else:
+                logger.info(f"Uruchomiono nasłuchiwanie skrótu klawiszowego: {self.capture_hotkey}")
             
             self.is_running = True
-            logger.info(f"Uruchomiono nasłuchiwanie skrótów klawiszowych: {self.capture_hotkey} i f9")
             
         except Exception as e:
             logger.error(f"Błąd uruchamiania nasłuchiwania skrótów: {e}")

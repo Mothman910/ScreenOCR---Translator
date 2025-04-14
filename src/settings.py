@@ -46,7 +46,8 @@ class Settings:
                 'engine': 'tesseract',
                 'language': 'eng',  # język dla OCR
                 'preprocess': True,  # wstępne przetwarzanie obrazu
-                'confidence_threshold': 70  # próg pewności (%)
+                'accuracy_mode': 'balanced',  # tryb dokładności: 'high', 'balanced', 'low'
+                'text_processing': True  # inteligentne przetwarzanie tekstu
             },
             'translation': {
                 'engine': 'google',  # google, deepl
@@ -341,11 +342,41 @@ class SettingsDialog(QDialog):
         self.preprocess_check = QCheckBox()
         layout.addRow("Przetwarzanie obrazu:", self.preprocess_check)
         
-        # Próg pewności
-        self.threshold_spin = QSpinBox()
-        self.threshold_spin.setRange(0, 100)
-        self.threshold_spin.setSuffix("%")
-        layout.addRow("Próg pewności:", self.threshold_spin)
+        # Tryb dokładności
+        self.accuracy_mode_combo = QComboBox()
+        self.accuracy_mode_combo.addItem("Wysoka dokładność", "high")
+        self.accuracy_mode_combo.addItem("Zrównoważony", "balanced")
+        self.accuracy_mode_combo.addItem("Maksymalne rozpoznawanie", "low")
+        
+        # Dodanie opisu trybu dokładności
+        accuracy_description = QLabel(
+            "Tryb dokładności wpływa na rozpoznawanie tekstu:\n"
+            "• Wysoka dokładność - mniej tekstu, ale większa pewność poprawności\n"
+            "• Zrównoważony - optymalny stosunek ilości tekstu do dokładności\n"
+            "• Maksymalne rozpoznawanie - więcej tekstu, nawet przy niższej pewności"
+        )
+        accuracy_description.setWordWrap(True)
+        
+        # Układy dla trybu dokładności
+        accuracy_layout = QVBoxLayout()
+        accuracy_layout.addWidget(self.accuracy_mode_combo)
+        accuracy_layout.addWidget(accuracy_description)
+        
+        layout.addRow("Tryb dokładności:", accuracy_layout)
+        
+        # Inteligentne przetwarzanie tekstu
+        self.text_processing_check = QCheckBox()
+        text_processing_description = QLabel(
+            "Włącza inteligentne przetwarzanie tekstu, które wykrywa i koryguje "
+            "typowe błędy OCR, poprawia interpunkcję oraz rozpoznaje pełne zdania."
+        )
+        text_processing_description.setWordWrap(True)
+        
+        text_processing_layout = QVBoxLayout()
+        text_processing_layout.addWidget(self.text_processing_check)
+        text_processing_layout.addWidget(text_processing_description)
+        
+        layout.addRow("Inteligentne przetwarzanie tekstu:", text_processing_layout)
         
         self.ocr_tab.setLayout(layout)
     
@@ -490,7 +521,8 @@ class SettingsDialog(QDialog):
         self.set_combo_by_value(self.ocr_engine_combo, self.settings.get('ocr', 'engine'))
         self.set_combo_by_value(self.ocr_language_combo, self.settings.get('ocr', 'language'))
         self.preprocess_check.setChecked(self.settings.get('ocr', 'preprocess'))
-        self.threshold_spin.setValue(self.settings.get('ocr', 'confidence_threshold'))
+        self.set_combo_by_value(self.accuracy_mode_combo, self.settings.get('ocr', 'accuracy_mode', 'balanced'))
+        self.text_processing_check.setChecked(self.settings.get('ocr', 'text_processing', True))
         
         # Zakładka Tłumaczenie
         self.set_combo_by_value(self.translation_engine_combo, self.settings.get('translation', 'engine'))
@@ -532,7 +564,8 @@ class SettingsDialog(QDialog):
         self.settings.set('ocr', 'engine', self.get_combo_value(self.ocr_engine_combo))
         self.settings.set('ocr', 'language', self.get_combo_value(self.ocr_language_combo))
         self.settings.set('ocr', 'preprocess', self.preprocess_check.isChecked())
-        self.settings.set('ocr', 'confidence_threshold', self.threshold_spin.value())
+        self.settings.set('ocr', 'accuracy_mode', self.get_combo_value(self.accuracy_mode_combo))
+        self.settings.set('ocr', 'text_processing', self.text_processing_check.isChecked())
         
         # Zakładka Tłumaczenie
         self.settings.set('translation', 'engine', self.get_combo_value(self.translation_engine_combo))

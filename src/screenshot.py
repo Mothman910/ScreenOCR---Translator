@@ -280,9 +280,10 @@ class ScreenshotTool(QObject):
         # Wyświetlenie tłumaczenia w popup
         self.popup.show_translation(original_text, translated_text)
         
-        # Dodatkowo, wyświetlamy tekst w konsoli
-        print(f"Oryginalny tekst: {original_text}")
-        print(f"Tłumaczenie: {translated_text}")
+        # W wersji deweloperskiej możemy wyświetlić tekst w konsoli
+        if os.environ.get('DEV_MODE') == '1':
+            print(f"Oryginalny tekst: {original_text}")
+            print(f"Tłumaczenie: {translated_text}")
     
     def on_processing_error(self, error_message):
         """Obsługa błędów przetwarzania."""

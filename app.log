@@ -2282,3 +2282,2071 @@
 2025-04-14 19:59:59,542 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
 2025-04-14 19:59:59,552 - popup - INFO - Wyœwietlono popup z t³umaczeniem
 2025-04-14 20:00:03,081 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:01:34,059 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 20:01:34,099 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 20:01:34,141 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 20:01:34,141 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 20:01:34,141 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 20:01:34,143 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:01:34,143 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:01:34,413 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i f9
+2025-04-14 20:01:34,413 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 20:01:34,413 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 20:01:41,080 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:01:41,081 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:01:41,081 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:01:41,081 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:01:41,082 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:01:41,216 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:01:41,216 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:01:41,216 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:01:47,517 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200147.png
+2025-04-14 20:01:47,517 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200147.png
+2025-04-14 20:01:47,526 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200147.png
+2025-04-14 20:01:47,526 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:01:47,527 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:01:47,527 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:01:47,527 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:01:47,527 - translator - INFO - Translator zainicjowany
+2025-04-14 20:01:47,527 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200147.png
+2025-04-14 20:01:47,725 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:01:47,725 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:01:48,430 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:01:48,430 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:01:48,445 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:01:53,463 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:05:53,954 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:06:00,770 - tray_icon - INFO - Wyœwietlanie okna informacyjnego
+2025-04-14 20:07:32,986 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:09:39,297 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:09:39,297 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:09:39,297 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:09:39,297 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:09:39,297 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:09:39,361 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:09:39,361 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:09:39,362 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:09:42,329 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:09:42,329 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:09:42,329 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:09:42,330 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:09:42,330 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:09:42,368 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:09:42,368 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:09:42,368 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:09:46,465 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:09:50,113 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:09:50,113 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:09:50,113 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:09:50,113 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:09:50,113 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:09:50,177 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:09:50,177 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:09:50,177 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:09:57,997 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200957.png
+2025-04-14 20:09:57,997 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200957.png
+2025-04-14 20:09:58,004 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200957.png
+2025-04-14 20:09:58,004 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:09:58,004 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:09:58,005 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:09:58,005 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:09:58,005 - translator - INFO - Translator zainicjowany
+2025-04-14 20:09:58,005 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_200957.png
+2025-04-14 20:09:58,394 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:09:58,394 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:09:59,784 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:09:59,784 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:09:59,798 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:10:04,805 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:10:06,393 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:10:06,393 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:10:06,393 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:10:06,394 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:10:06,394 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:10:06,450 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:10:06,451 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:10:06,451 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:10:08,147 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201008.png
+2025-04-14 20:10:08,148 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201008.png
+2025-04-14 20:10:08,155 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:10:08,155 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201008.png
+2025-04-14 20:10:08,155 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:10:08,155 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:10:08,155 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:10:08,156 - translator - INFO - Translator zainicjowany
+2025-04-14 20:10:08,156 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201008.png
+2025-04-14 20:10:08,375 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:10:08,375 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:10:08,728 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:10:08,728 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:10:08,737 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:10:11,406 - popup - INFO - T³umaczenie skopiowane do schowka
+2025-04-14 20:10:12,145 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:10:58,269 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 20:10:58,310 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 20:10:58,353 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 20:10:58,353 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 20:10:58,353 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 20:10:58,355 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:10:58,355 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:10:58,616 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i f9
+2025-04-14 20:10:58,616 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 20:10:58,616 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 20:11:01,482 - tray_icon - INFO - Wyœwietlanie okna informacyjnego
+2025-04-14 20:12:24,138 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 20:12:24,179 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 20:12:24,219 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 20:12:24,219 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 20:12:24,220 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 20:12:24,221 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:12:24,221 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:12:24,492 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i f9
+2025-04-14 20:12:24,492 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 20:12:24,492 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 20:12:29,226 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:12:50,516 - tray_icon - INFO - Wyœwietlanie okna informacyjnego
+2025-04-14 20:13:44,907 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,908 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,908 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,909 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,909 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,910 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,911 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,911 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,912 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,913 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,913 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,914 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,915 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,915 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,916 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,917 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,917 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,918 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,919 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,919 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,920 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,921 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:44,921 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:13:47,139 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:13:56,347 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,347 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,347 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:56,449 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,450 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,450 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:56,561 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,561 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,562 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:56,665 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,665 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,666 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:56,777 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,778 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,778 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:56,885 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,885 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,885 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:56,995 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:56,995 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:56,996 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,108 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,108 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,108 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,211 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,212 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,212 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,329 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,329 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,329 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,440 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,441 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,441 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,550 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,551 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,551 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,633 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:13:57,633 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:13:57,633 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:13:57,634 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:13:57,634 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:13:57,753 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,754 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,754 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,754 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:13:57,754 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:13:57,755 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:13:57,807 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,807 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,808 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,869 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,869 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,869 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:57,980 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:57,981 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:57,981 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,089 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,089 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,089 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,199 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,200 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,200 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,305 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,305 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,306 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,418 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,418 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,418 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,529 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,529 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,529 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,644 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,645 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,645 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,755 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,755 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,756 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,851 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,851 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,851 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:58,973 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:58,973 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:58,974 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,082 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,082 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,082 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,191 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,192 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,192 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,302 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,302 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,302 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,397 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,398 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,398 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,509 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,510 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,510 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,618 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,618 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,619 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,729 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,730 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,730 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,840 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,840 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,840 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:13:59,945 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:13:59,945 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:13:59,946 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,057 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,057 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,057 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,170 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,171 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,171 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,281 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,282 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,282 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,392 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,393 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,393 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,503 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,503 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,503 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,609 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,610 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,610 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,713 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,713 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,713 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,825 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,826 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,826 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:00,942 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:00,942 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:00,942 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,051 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,051 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,051 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,160 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,160 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,160 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,265 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,265 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,266 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,369 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,369 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,369 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,477 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,477 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,477 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,589 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,589 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,589 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,697 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,697 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,697 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,809 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,809 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,810 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:01,919 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:01,919 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:01,919 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:02,030 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:02,030 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:02,030 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:02,141 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:02,141 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:02,141 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:02,249 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:02,249 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:02,250 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:02,353 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:02,353 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:02,354 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:02,473 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:02,474 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:02,474 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:02,570 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 20:14:02,570 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 20:14:02,570 - hotkey_tester - ERROR - B³¹d aktualizacji statusu: 'HotkeyManager' object has no attribute 'is_hotkey_pressed'
+2025-04-14 20:14:04,998 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:14:07,730 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:14:29,825 - tray_icon - INFO - Wyœwietlanie okna informacyjnego
+2025-04-14 20:14:55,018 - tray_icon - INFO - Wyœwietlanie okna informacyjnego
+2025-04-14 20:15:41,843 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,843 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,844 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,845 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,845 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,846 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,847 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,847 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,848 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,849 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,849 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,850 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,851 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,851 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,852 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,852 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,853 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,854 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,854 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,855 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,856 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,856 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:15:41,857 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:18:53,537 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:18:53,538 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:18:53,538 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:18:53,538 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:18:53,538 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:18:53,592 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:18:53,593 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:18:53,593 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:18:58,307 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201858.png
+2025-04-14 20:18:58,307 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201858.png
+2025-04-14 20:18:58,319 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:18:58,319 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201858.png
+2025-04-14 20:18:58,319 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:18:58,320 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:18:58,320 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:18:58,320 - translator - INFO - Translator zainicjowany
+2025-04-14 20:18:58,320 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201858.png
+2025-04-14 20:18:58,629 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:18:58,630 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:18:59,232 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:18:59,233 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:18:59,254 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:19:04,396 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:19:24,138 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:19:24,138 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:19:24,138 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:19:24,139 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:19:24,139 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:19:24,203 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:19:24,203 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:19:24,203 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:19:29,075 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201929.png
+2025-04-14 20:19:29,075 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201929.png
+2025-04-14 20:19:29,085 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:19:29,085 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201929.png
+2025-04-14 20:19:29,085 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:19:29,086 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:19:29,086 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:19:29,086 - translator - INFO - Translator zainicjowany
+2025-04-14 20:19:29,086 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201929.png
+2025-04-14 20:19:29,359 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:19:29,359 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:19:30,348 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:19:30,349 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:19:30,359 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:19:36,370 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:19:38,353 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:19:38,354 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:19:38,354 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:19:38,354 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:19:38,354 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:19:38,409 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:19:38,409 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:19:38,409 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:19:43,904 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201943.png
+2025-04-14 20:19:43,904 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201943.png
+2025-04-14 20:19:43,914 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:19:43,914 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201943.png
+2025-04-14 20:19:43,914 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:19:43,914 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:19:43,915 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:19:43,915 - translator - INFO - Translator zainicjowany
+2025-04-14 20:19:43,915 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_201943.png
+2025-04-14 20:19:44,162 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:19:44,162 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:19:44,418 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:19:44,419 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:19:44,429 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:19:50,852 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:20:14,481 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:14,482 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:14,482 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:14,482 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:14,482 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:14,545 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:14,545 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:14,545 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:23,690 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202023.png
+2025-04-14 20:20:23,690 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202023.png
+2025-04-14 20:20:23,699 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:20:23,699 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202023.png
+2025-04-14 20:20:23,700 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:20:23,700 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:20:23,700 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:20:23,700 - translator - INFO - Translator zainicjowany
+2025-04-14 20:20:23,700 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202023.png
+2025-04-14 20:20:23,938 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:20:23,938 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 20:20:23,938 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:20:23,950 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:20:25,651 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:20:25,969 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:25,970 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:25,970 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:25,970 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:25,970 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:26,026 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:26,026 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:26,026 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:28,738 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202028.png
+2025-04-14 20:20:28,739 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202028.png
+2025-04-14 20:20:28,747 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:20:28,748 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202028.png
+2025-04-14 20:20:28,748 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:20:28,748 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:20:28,748 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:20:28,748 - translator - INFO - Translator zainicjowany
+2025-04-14 20:20:28,748 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202028.png
+2025-04-14 20:20:29,012 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:20:29,012 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:20:29,378 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:20:29,379 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:20:29,389 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:20:30,491 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:20:30,985 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:30,986 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:30,986 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:30,986 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:30,986 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:31,040 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:31,040 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:31,040 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:35,489 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202035.png
+2025-04-14 20:20:35,489 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202035.png
+2025-04-14 20:20:35,498 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:20:35,498 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202035.png
+2025-04-14 20:20:35,498 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:20:35,499 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:20:35,499 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:20:35,499 - translator - INFO - Translator zainicjowany
+2025-04-14 20:20:35,499 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202035.png
+2025-04-14 20:20:35,779 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:20:35,780 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:20:36,671 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:20:36,672 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:20:36,682 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:20:38,029 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:20:40,201 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:40,202 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:40,202 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:40,203 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:40,203 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:40,266 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:40,266 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:40,266 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:44,194 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202044.png
+2025-04-14 20:20:44,194 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202044.png
+2025-04-14 20:20:44,203 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:20:44,203 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202044.png
+2025-04-14 20:20:44,204 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:20:44,204 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:20:44,204 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:20:44,204 - translator - INFO - Translator zainicjowany
+2025-04-14 20:20:44,204 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202044.png
+2025-04-14 20:20:44,465 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:20:44,466 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:20:45,378 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:20:45,378 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:20:45,391 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:20:46,699 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:20:48,649 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:48,650 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:48,650 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:20:48,650 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:48,650 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:48,714 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:20:48,714 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:20:48,715 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:20:55,042 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:21:17,833 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:21:17,834 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:21:17,834 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:21:17,834 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:21:17,835 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:21:17,925 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:21:17,925 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:21:17,925 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:21:22,052 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202122.png
+2025-04-14 20:21:22,052 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202122.png
+2025-04-14 20:21:22,060 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:21:22,060 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202122.png
+2025-04-14 20:21:22,061 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:21:22,061 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:21:22,061 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:21:22,061 - translator - INFO - Translator zainicjowany
+2025-04-14 20:21:22,061 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202122.png
+2025-04-14 20:21:22,265 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:21:22,265 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:21:22,798 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:21:22,798 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:21:22,807 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:21:27,843 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:21:29,057 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:21:29,058 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:21:29,058 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:21:29,058 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:21:29,058 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:21:29,120 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:21:29,120 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:21:29,120 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:21:32,204 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202132.png
+2025-04-14 20:21:32,204 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202132.png
+2025-04-14 20:21:32,213 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:21:32,213 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202132.png
+2025-04-14 20:21:32,214 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:21:32,214 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:21:32,214 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:21:32,214 - translator - INFO - Translator zainicjowany
+2025-04-14 20:21:32,214 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202132.png
+2025-04-14 20:21:32,421 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:21:32,421 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:21:32,689 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:21:32,689 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:21:32,700 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:21:34,964 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:21:40,802 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:21:40,803 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:21:40,802 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:21:40,803 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:21:40,803 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:21:40,876 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:21:40,876 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:21:40,876 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:21:44,465 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202144.png
+2025-04-14 20:21:44,465 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202144.png
+2025-04-14 20:21:44,475 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:21:44,475 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202144.png
+2025-04-14 20:21:44,476 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:21:44,476 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:21:44,476 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:21:44,476 - translator - INFO - Translator zainicjowany
+2025-04-14 20:21:44,476 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202144.png
+2025-04-14 20:21:44,756 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:21:44,756 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:21:45,255 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:21:45,256 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:21:45,266 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:21:46,852 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:22:32,705 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:22:32,706 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:22:32,706 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:22:32,706 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:22:32,706 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:22:32,762 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:22:32,762 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:22:32,763 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:22:37,012 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202236.png
+2025-04-14 20:22:37,012 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202236.png
+2025-04-14 20:22:37,021 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:22:37,021 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202236.png
+2025-04-14 20:22:37,021 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:22:37,022 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:22:37,022 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:22:37,022 - translator - INFO - Translator zainicjowany
+2025-04-14 20:22:37,022 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202236.png
+2025-04-14 20:22:37,417 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:22:37,417 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:22:37,736 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:22:37,736 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:22:37,749 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:22:53,738 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:22:57,651 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:23:09,827 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,828 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,829 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,829 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,830 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,831 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,831 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,832 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,833 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,833 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,834 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,835 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,835 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,836 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,837 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,837 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,838 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,839 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,839 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,840 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,841 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,842 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:09,842 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:14,705 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:23:14,706 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:23:14,706 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:23:14,706 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:23:14,706 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:23:14,761 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:23:14,762 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:23:14,762 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:23:17,879 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202317.png
+2025-04-14 20:23:17,879 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202317.png
+2025-04-14 20:23:17,886 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202317.png
+2025-04-14 20:23:17,886 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:23:17,887 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:23:17,887 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:23:17,887 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:23:17,887 - translator - INFO - Translator zainicjowany
+2025-04-14 20:23:17,887 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202317.png
+2025-04-14 20:23:18,206 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:23:18,206 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:23:18,490 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:23:18,490 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:23:18,500 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:23:26,579 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:23:30,770 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:23:50,476 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,477 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,477 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,478 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,479 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,479 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,480 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,480 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,481 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,482 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,482 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,483 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,484 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,484 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,485 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,485 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,486 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,487 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,487 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,488 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,489 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,489 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,490 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:23:50,945 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:23:50,946 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:23:50,946 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:23:50,946 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:23:50,946 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:23:51,008 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:23:51,009 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:23:51,009 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:23:54,019 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202354.png
+2025-04-14 20:23:54,019 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202354.png
+2025-04-14 20:23:54,027 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:23:54,027 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202354.png
+2025-04-14 20:23:54,027 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:23:54,028 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:23:54,028 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:23:54,028 - translator - INFO - Translator zainicjowany
+2025-04-14 20:23:54,028 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202354.png
+2025-04-14 20:23:54,325 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:23:54,325 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:23:54,886 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:23:54,887 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:23:54,896 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:23:59,354 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:24:03,202 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:24:07,564 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,564 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,565 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,566 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,566 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,567 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,568 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,568 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,569 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,569 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,570 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,571 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,571 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,572 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,573 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,573 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,574 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,574 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,575 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,576 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,576 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,577 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:07,578 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:10,018 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:24:10,018 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:24:10,018 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:24:10,018 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:24:10,018 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:24:10,081 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:24:10,081 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:24:10,081 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:24:13,300 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202413.png
+2025-04-14 20:24:13,300 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202413.png
+2025-04-14 20:24:13,308 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:24:13,308 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202413.png
+2025-04-14 20:24:13,308 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:24:13,308 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:24:13,308 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:24:13,308 - translator - INFO - Translator zainicjowany
+2025-04-14 20:24:13,309 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202413.png
+2025-04-14 20:24:13,629 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:24:13,629 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:24:13,716 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:24:13,716 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:24:13,726 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:24:20,170 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:24:24,075 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 20:24:30,395 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,396 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,397 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,397 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,398 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,399 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,399 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,400 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,401 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,401 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,402 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,402 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,403 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,404 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,404 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,405 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,406 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,406 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,407 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,407 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,408 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,409 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:30,409 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 20:24:34,954 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:24:34,954 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:24:34,954 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:24:34,955 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:24:34,955 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:24:35,003 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:24:35,003 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:24:35,003 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:24:38,548 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202438.png
+2025-04-14 20:24:38,548 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202438.png
+2025-04-14 20:24:38,556 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:24:38,556 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202438.png
+2025-04-14 20:24:38,556 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:24:38,557 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:24:38,557 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:24:38,557 - translator - INFO - Translator zainicjowany
+2025-04-14 20:24:38,557 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202438.png
+2025-04-14 20:24:38,961 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:24:38,962 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:24:39,267 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:24:39,267 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:24:39,278 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:24:47,875 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:24:48,650 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:24:48,650 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:24:48,650 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:24:48,650 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:24:48,650 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:24:48,708 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:24:48,709 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:24:48,709 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:24:53,241 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202453.png
+2025-04-14 20:24:53,241 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202453.png
+2025-04-14 20:24:53,249 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202453.png
+2025-04-14 20:24:53,250 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:24:53,250 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:24:53,250 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:24:53,250 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:24:53,250 - translator - INFO - Translator zainicjowany
+2025-04-14 20:24:53,250 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202453.png
+2025-04-14 20:24:53,642 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:24:53,642 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:24:53,896 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:24:53,897 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:24:53,907 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:25:11,874 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:25:14,226 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:25:14,226 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:25:14,226 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:25:14,226 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:25:14,226 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:25:14,294 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:25:14,295 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:25:14,295 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:25:17,647 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202517.png
+2025-04-14 20:25:17,647 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202517.png
+2025-04-14 20:25:17,654 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:25:17,655 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202517.png
+2025-04-14 20:25:17,655 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:25:17,655 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:25:17,655 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:25:17,655 - translator - INFO - Translator zainicjowany
+2025-04-14 20:25:17,655 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202517.png
+2025-04-14 20:25:17,941 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:25:17,941 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:25:19,181 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:25:19,181 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:25:19,194 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:25:29,802 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:25:42,850 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:25:42,850 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:25:42,850 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:25:42,851 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:25:42,851 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:25:42,903 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:25:42,904 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:25:42,904 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:25:46,840 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202546.png
+2025-04-14 20:25:46,840 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202546.png
+2025-04-14 20:25:46,848 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:25:46,848 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202546.png
+2025-04-14 20:25:46,848 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:25:46,848 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:25:46,848 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:25:46,849 - translator - INFO - Translator zainicjowany
+2025-04-14 20:25:46,849 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202546.png
+2025-04-14 20:25:47,141 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:25:47,141 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:25:47,712 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:25:47,713 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:25:47,723 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:25:58,707 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 20:25:58,962 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:25:58,962 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 20:25:58,963 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:25:58,963 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:25:58,963 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:25:59,008 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 20:25:59,008 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 20:25:59,008 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 20:26:03,071 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202603.png
+2025-04-14 20:26:03,071 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202603.png
+2025-04-14 20:26:03,081 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 20:26:03,081 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202603.png
+2025-04-14 20:26:03,081 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 20:26:03,081 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 20:26:03,081 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 20:26:03,081 - translator - INFO - Translator zainicjowany
+2025-04-14 20:26:03,082 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_202603.png
+2025-04-14 20:26:03,370 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 20:26:03,370 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 20:26:03,543 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 20:26:03,544 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 20:26:03,555 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 20:26:38,747 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 22:41:18,802 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 22:41:18,854 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 22:41:18,894 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 22:41:18,895 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 22:41:18,895 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 22:41:18,897 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 22:41:18,897 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 22:41:19,165 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i F9
+2025-04-14 22:41:19,165 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 22:41:19,165 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 22:41:25,121 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:41:25,121 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:41:25,121 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:41:25,121 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:41:25,122 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:41:25,264 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:41:25,264 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:41:25,264 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:41:31,621 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:42:03,648 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:44:26,419 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,420 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,420 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,421 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,422 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,423 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,423 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,424 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,425 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,425 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,426 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,427 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,427 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,428 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,429 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,429 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,430 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,430 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,431 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,432 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,432 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,433 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,434 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,434 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,435 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,436 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,436 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,437 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,438 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:26,438 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:44:43,339 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:56:35,579 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:56:44,428 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:57:06,804 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,805 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,805 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,806 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,807 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,807 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,808 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,809 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,809 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,810 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,811 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,811 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,812 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,812 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,813 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,814 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,814 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,815 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,816 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,816 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,817 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,818 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,818 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,819 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,820 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,820 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,821 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,822 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,822 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:06,823 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:57:08,786 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:57:08,786 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:57:08,786 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:57:08,786 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:57:08,786 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:57:08,858 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:57:08,858 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:57:08,858 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:57:12,089 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:57:13,538 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:57:13,538 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:57:13,538 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:57:13,538 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:57:13,539 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:57:13,604 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:57:13,604 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:57:13,605 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:57:21,006 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225720.png
+2025-04-14 22:57:21,006 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225720.png
+2025-04-14 22:57:21,014 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:57:21,014 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225720.png
+2025-04-14 22:57:21,014 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 22:57:21,015 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 22:57:21,015 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 22:57:21,015 - translator - INFO - Translator zainicjowany
+2025-04-14 22:57:21,015 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225720.png
+2025-04-14 22:57:21,269 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file "C:\\Users\\fijal\\Desktop\\ScreenOCR & Translator\\external\\Tesseract-OCR\\tessdata"/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 22:57:21,269 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 22:57:21,269 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 22:57:21,270 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 22:57:21,287 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 22:57:25,689 - popup - INFO - T³umaczenie skopiowane do schowka
+2025-04-14 22:57:26,284 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 22:57:30,330 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:57:30,330 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:57:30,330 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:57:30,330 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:57:30,331 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:57:30,396 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:57:30,396 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:57:30,396 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:57:35,151 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225735.png
+2025-04-14 22:57:35,151 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225735.png
+2025-04-14 22:57:35,158 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:57:35,158 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225735.png
+2025-04-14 22:57:35,159 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 22:57:35,159 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 22:57:35,159 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 22:57:35,159 - translator - INFO - Translator zainicjowany
+2025-04-14 22:57:35,159 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225735.png
+2025-04-14 22:57:35,426 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file "C:\\Users\\fijal\\Desktop\\ScreenOCR & Translator\\external\\Tesseract-OCR\\tessdata"/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 22:57:35,426 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 22:57:35,426 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 22:57:35,427 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 22:57:35,437 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 22:57:37,268 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 22:57:43,468 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:58:10,524 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,525 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,525 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,526 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,526 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,527 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,528 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,528 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,529 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,530 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,530 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,531 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,532 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,532 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,533 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,534 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,534 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,535 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,535 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,536 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,537 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,537 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,538 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,539 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,539 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,540 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,541 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,541 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,542 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:10,542 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:11,514 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:58:11,514 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:58:11,514 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:58:11,514 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:58:11,514 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:58:11,569 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:58:11,569 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:58:11,569 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:58:16,549 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225816.png
+2025-04-14 22:58:16,550 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225816.png
+2025-04-14 22:58:16,557 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:58:16,557 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225816.png
+2025-04-14 22:58:16,558 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 22:58:16,558 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 22:58:16,558 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 22:58:16,558 - translator - INFO - Translator zainicjowany
+2025-04-14 22:58:16,558 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225816.png
+2025-04-14 22:58:16,847 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file "C:\\Users\\fijal\\Desktop\\ScreenOCR & Translator\\external\\Tesseract-OCR\\tessdata"/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 22:58:16,847 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 22:58:16,847 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 22:58:16,848 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 22:58:16,856 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 22:58:17,947 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 22:58:25,597 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:58:39,388 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,389 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,389 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,390 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,391 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,391 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,392 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,393 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,393 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,394 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,395 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,396 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,396 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,397 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,398 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,398 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,399 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,400 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,401 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,401 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,402 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,403 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,403 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,404 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,405 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,405 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,406 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,407 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,407 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:39,408 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:58:40,122 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:58:40,122 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:58:40,123 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:58:40,123 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:58:40,123 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:58:40,179 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:58:40,179 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:58:40,179 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:58:43,702 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225843.png
+2025-04-14 22:58:43,702 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225843.png
+2025-04-14 22:58:43,710 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:58:43,710 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225843.png
+2025-04-14 22:58:43,711 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 22:58:43,711 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 22:58:43,711 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 22:58:43,711 - translator - INFO - Translator zainicjowany
+2025-04-14 22:58:43,711 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225843.png
+2025-04-14 22:58:44,006 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file "C:\\Users\\fijal\\Desktop\\ScreenOCR & Translator\\external\\Tesseract-OCR\\tessdata"/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 22:58:44,006 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 22:58:44,006 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 22:58:44,007 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 22:58:44,016 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 22:58:45,717 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 22:58:47,508 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 22:59:15,212 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,213 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,213 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,214 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,215 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,215 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,216 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,217 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,217 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,218 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,219 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,219 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,220 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,221 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,221 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,222 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,222 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,223 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,224 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,224 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,225 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,226 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,226 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,227 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,228 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,228 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,229 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,230 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,230 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:15,231 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 22:59:16,138 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:59:16,138 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:59:16,138 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:59:16,138 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 22:59:16,138 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:59:16,194 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 22:59:16,194 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 22:59:16,194 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 22:59:19,120 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225919.png
+2025-04-14 22:59:19,120 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225919.png
+2025-04-14 22:59:19,127 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 22:59:19,127 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225919.png
+2025-04-14 22:59:19,128 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 22:59:19,128 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 22:59:19,128 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 22:59:19,128 - translator - INFO - Translator zainicjowany
+2025-04-14 22:59:19,128 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_225919.png
+2025-04-14 22:59:19,407 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file "C:\\Users\\fijal\\Desktop\\ScreenOCR & Translator\\external\\Tesseract-OCR\\tessdata"/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 22:59:19,408 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 22:59:19,408 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 22:59:19,408 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 22:59:19,417 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 22:59:20,844 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:28:25,848 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 23:28:25,903 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 23:28:25,946 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 23:28:25,946 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 23:28:25,946 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 23:28:25,948 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 23:28:25,948 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 23:28:26,219 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i F9
+2025-04-14 23:28:26,220 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 23:28:26,220 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 23:28:31,934 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:29:28,286 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,287 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,287 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,288 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,289 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,289 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,290 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,291 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,291 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,292 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,293 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,293 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,294 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,294 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,295 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,296 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,296 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,297 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,298 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,298 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,299 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,300 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,300 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,301 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,301 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,302 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,303 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,303 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,304 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:28,305 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:29:34,780 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:29:34,780 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:29:34,780 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:29:34,781 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:29:34,782 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:29:34,893 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:29:34,894 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:29:34,894 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:29:40,026 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_232939.png
+2025-04-14 23:29:40,026 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_232939.png
+2025-04-14 23:29:40,034 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:29:40,034 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_232939.png
+2025-04-14 23:29:40,035 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:29:40,035 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:29:40,035 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:29:40,035 - translator - INFO - Translator zainicjowany
+2025-04-14 23:29:40,035 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_232939.png
+2025-04-14 23:29:40,454 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Cloud Vision: 400 Client Error: Bad Request for url: https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDoBrRgXzaTNk4iugQ2tIxye7bCRmI-REE
+2025-04-14 23:29:40,455 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:29:40,455 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 23:29:40,456 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:29:40,471 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:29:43,318 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:29:52,134 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:30:51,933 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,934 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,935 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,935 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,936 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,937 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,937 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,938 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,939 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,939 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,940 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,941 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,941 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,942 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,943 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,943 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,944 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,945 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,945 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,946 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,947 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,947 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,948 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,949 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,949 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,950 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,951 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,952 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,952 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:51,953 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:30:55,428 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:30:55,428 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:30:55,428 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:30:55,428 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:30:55,429 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:30:55,480 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:30:55,480 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:30:55,481 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:30:59,615 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233059.png
+2025-04-14 23:30:59,615 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233059.png
+2025-04-14 23:30:59,623 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:30:59,623 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233059.png
+2025-04-14 23:30:59,623 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:30:59,624 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:30:59,624 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:30:59,624 - translator - INFO - Translator zainicjowany
+2025-04-14 23:30:59,624 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233059.png
+2025-04-14 23:30:59,927 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 23:30:59,927 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:30:59,927 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 23:30:59,927 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:30:59,937 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:31:01,966 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:31:07,598 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:31:30,118 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,119 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,119 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,120 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,121 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,121 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,122 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,122 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,123 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,124 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,124 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,125 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,126 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,127 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,127 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,128 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,128 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,129 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,130 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,130 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,131 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,132 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,132 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,133 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,133 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,134 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,135 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,135 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,136 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:30,137 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:31:32,860 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:31:32,860 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:31:32,860 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:31:32,861 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:31:32,861 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:31:32,925 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:31:32,925 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:31:32,926 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:31:36,834 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233136.png
+2025-04-14 23:31:36,834 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233136.png
+2025-04-14 23:31:36,842 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:31:36,842 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233136.png
+2025-04-14 23:31:36,842 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:31:36,842 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:31:36,842 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:31:36,842 - translator - INFO - Translator zainicjowany
+2025-04-14 23:31:36,843 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233136.png
+2025-04-14 23:31:37,178 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Cloud Vision: 400 Client Error: Bad Request for url: https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDoBrRgXzaTNk4iugQ2tIxye7bCRmI-REE
+2025-04-14 23:31:37,179 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:31:37,179 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 23:31:37,179 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:31:37,188 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:31:38,534 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:35:47,192 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 23:35:47,244 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 23:35:47,284 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 23:35:47,284 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 23:35:47,284 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 23:35:47,286 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 23:35:47,286 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 23:35:47,546 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i F9
+2025-04-14 23:35:47,547 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 23:35:47,547 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 23:35:51,213 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:35:59,935 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,935 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,936 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,937 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,937 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,938 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,939 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,939 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,940 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,941 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,941 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,942 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,942 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,943 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,944 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,944 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,945 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,946 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,947 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,948 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,948 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,949 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,949 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,950 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,951 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,951 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,952 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,953 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,953 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:35:59,954 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:12,100 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:36:12,100 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:36:12,101 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:36:12,101 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:36:12,102 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:36:12,224 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:36:12,224 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:36:12,224 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:36:15,373 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233615.png
+2025-04-14 23:36:15,373 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233615.png
+2025-04-14 23:36:15,381 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:36:15,382 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233615.png
+2025-04-14 23:36:15,382 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:36:15,382 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:36:15,382 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:36:15,382 - translator - INFO - Translator zainicjowany
+2025-04-14 23:36:15,382 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233615.png
+2025-04-14 23:36:15,750 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Cloud Vision: 400 Client Error: Bad Request for url: https://vision.googleapis.com/v1/images:annotate?key=AIzaSyDoBrRgXzaTNk4iugQ2tIxye7bCRmI-REE
+2025-04-14 23:36:15,750 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:36:15,750 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 23:36:15,751 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:36:15,766 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:36:17,149 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:36:22,846 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:36:41,190 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,190 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,191 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,192 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,192 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,193 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,194 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,194 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,195 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,195 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,196 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,197 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,197 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,198 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,199 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,199 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,200 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,201 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,201 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,202 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,203 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,203 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,204 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,204 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,205 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,206 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,206 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,207 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,208 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:41,208 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:36:51,614 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:37:09,910 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,911 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,911 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,912 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,913 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,913 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,914 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,915 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,915 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,916 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,917 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,917 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,918 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,918 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,919 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,920 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,920 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,921 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,922 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,922 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,923 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,924 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,924 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,925 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,925 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,926 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,927 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,927 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,928 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:09,929 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-14 23:37:11,044 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:37:11,044 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:37:11,044 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:37:11,045 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:37:11,045 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:37:11,106 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:37:11,106 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:37:11,106 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:37:14,283 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233714.png
+2025-04-14 23:37:14,283 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233714.png
+2025-04-14 23:37:14,290 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:37:14,290 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233714.png
+2025-04-14 23:37:14,291 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:37:14,291 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:37:14,291 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:37:14,291 - translator - INFO - Translator zainicjowany
+2025-04-14 23:37:14,291 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233714.png
+2025-04-14 23:37:14,609 - ocr_engine - ERROR - B³¹d podczas rozpoznawania tekstu przez Tesseract: (1, 'Error opening data file "C:\\Users\\fijal\\Desktop\\ScreenOCR & Translator\\external\\Tesseract-OCR\\tessdata"/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-14 23:37:14,609 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:37:14,609 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-14 23:37:14,610 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:37:14,618 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:37:15,903 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:37:55,496 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 23:37:55,556 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 23:37:55,598 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 23:37:55,598 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 23:37:55,598 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 23:37:55,599 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 23:37:55,599 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 23:37:55,874 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótów klawiszowych: f9 i f9
+2025-04-14 23:37:55,875 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 23:37:55,875 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 23:38:02,892 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:38:02,892 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:38:02,893 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:38:02,893 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:38:02,894 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:38:03,019 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:38:03,019 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:38:03,019 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:38:06,497 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233806.png
+2025-04-14 23:38:06,497 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233806.png
+2025-04-14 23:38:06,505 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:38:06,506 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233806.png
+2025-04-14 23:38:06,506 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:38:06,506 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:38:06,506 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:38:06,506 - translator - INFO - Translator zainicjowany
+2025-04-14 23:38:06,506 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_233806.png
+2025-04-14 23:38:07,336 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:38:07,336 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 23:38:08,556 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 23:38:08,557 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:38:08,590 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:45:34,466 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 23:45:34,506 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 23:45:34,546 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 23:45:34,546 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 23:45:34,547 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 23:45:34,548 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 23:45:34,548 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 23:45:34,807 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótu klawiszowego: f9
+2025-04-14 23:45:34,807 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 23:45:34,807 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 23:45:45,414 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-14 23:45:52,588 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:45:52,589 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:45:52,590 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:45:52,590 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:45:56,274 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:45:57,572 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:45:57,573 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:45:57,574 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:45:57,574 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:46:02,156 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234602.png
+2025-04-14 23:46:02,156 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234602.png
+2025-04-14 23:46:02,163 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:46:02,163 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234602.png
+2025-04-14 23:46:02,164 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:46:02,164 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:46:02,164 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:46:02,164 - translator - INFO - Translator zainicjowany
+2025-04-14 23:46:02,164 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234602.png
+2025-04-14 23:46:02,941 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:46:02,941 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 23:46:04,299 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 23:46:04,299 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:46:04,324 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:46:07,991 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:46:09,052 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:46:09,053 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:46:09,053 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:46:09,053 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:46:12,673 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234612.png
+2025-04-14 23:46:12,673 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234612.png
+2025-04-14 23:46:12,681 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:46:12,681 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234612.png
+2025-04-14 23:46:12,681 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:46:12,681 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:46:12,681 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:46:12,681 - translator - INFO - Translator zainicjowany
+2025-04-14 23:46:12,682 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234612.png
+2025-04-14 23:46:13,427 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:46:13,427 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 23:46:14,705 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 23:46:14,705 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:46:14,722 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:46:27,063 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:46:27,772 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-14 23:46:27,773 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-14 23:46:27,773 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-14 23:46:27,773 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-14 23:46:35,751 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234635.png
+2025-04-14 23:46:35,751 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234635.png
+2025-04-14 23:46:35,759 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-14 23:46:35,759 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234635.png
+2025-04-14 23:46:35,760 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-14 23:46:35,760 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-14 23:46:35,760 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-14 23:46:35,760 - translator - INFO - Translator zainicjowany
+2025-04-14 23:46:35,760 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250414_234635.png
+2025-04-14 23:46:35,977 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone
+2025-04-14 23:46:35,977 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-14 23:46:36,509 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-14 23:46:36,510 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-14 23:46:36,519 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-14 23:46:50,951 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-14 23:47:47,046 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 23:47:47,089 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 23:47:47,130 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 23:47:47,130 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 23:47:47,130 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 23:47:47,132 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 23:47:47,132 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 23:47:47,385 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótu klawiszowego: f9
+2025-04-14 23:47:47,385 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 23:47:47,385 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 23:51:22,670 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-14 23:51:22,710 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-14 23:51:22,753 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-14 23:51:22,753 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-14 23:51:22,753 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-14 23:51:22,755 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-14 23:51:22,755 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-14 23:51:23,015 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótu klawiszowego: f9
+2025-04-14 23:51:23,016 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-14 23:51:23,016 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-14 23:51:33,055 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:06:33,317 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-15 00:06:33,358 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-15 00:06:33,399 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-15 00:06:33,400 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-15 00:06:33,400 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-15 00:06:33,401 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-15 00:06:33,401 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-15 00:06:33,668 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótu klawiszowego: f9
+2025-04-15 00:06:33,668 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-15 00:06:33,668 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-15 00:06:38,624 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:07:51,840 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,841 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,842 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,842 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,843 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,843 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,844 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,845 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,845 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,846 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,847 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,847 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,848 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,849 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,849 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,850 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,850 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,851 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,852 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,852 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,853 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,853 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,854 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:51,855 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:07:57,910 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:07:57,910 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:07:57,910 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:07:57,911 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:08:02,685 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000802.png
+2025-04-15 00:08:02,685 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000802.png
+2025-04-15 00:08:02,694 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:08:02,694 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000802.png
+2025-04-15 00:08:02,694 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:08:02,694 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:08:02,694 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:08:02,695 - translator - INFO - Translator zainicjowany
+2025-04-15 00:08:02,695 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000802.png
+2025-04-15 00:08:03,030 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 0 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,066 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 0 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,103 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 0 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,137 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 1 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,171 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 1 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,205 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 1 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,249 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 2 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,291 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 2 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,334 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 2 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,369 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 3 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,404 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 3 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,440 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 3 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,475 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 4 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,510 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 4 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,544 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 4 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,580 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 5 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,615 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 5 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,650 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 5 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:08:03,650 - ocr_engine - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-15 00:08:03,650 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-15 00:08:03,650 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:08:03,666 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:08:07,608 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:08:13,991 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:08:47,583 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,584 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,585 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,585 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,586 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,587 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,587 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,588 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,589 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,589 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,590 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,590 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,591 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,592 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,592 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,593 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,594 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,594 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,595 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,596 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,596 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,597 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,597 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:47,598 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:08:49,438 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:08:49,438 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:08:49,438 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:08:49,438 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:08:52,682 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000852.png
+2025-04-15 00:08:52,682 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000852.png
+2025-04-15 00:08:52,690 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000852.png
+2025-04-15 00:08:52,690 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:08:52,690 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:08:52,690 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:08:52,690 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:08:52,690 - translator - INFO - Translator zainicjowany
+2025-04-15 00:08:52,691 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000852.png
+2025-04-15 00:09:00,886 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:09:00,886 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:09:00,886 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:09:00,886 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:09:15,407 - main - INFO - Uruchamianie aplikacji ScreenOCR & Translator
+2025-04-15 00:09:15,459 - settings - INFO - Wczytano ustawienia z pliku
+2025-04-15 00:09:15,501 - popup - INFO - Popup t³umaczenia zainicjowany
+2025-04-15 00:09:15,501 - screenshot - INFO - Narzêdzie zrzutu ekranu zainicjowane
+2025-04-15 00:09:15,501 - tray_icon - INFO - Ikona zasobnika systemowego zainicjowana
+2025-04-15 00:09:15,503 - hotkeys - INFO - Skonfigurowano skrót przechwytywania: f9
+2025-04-15 00:09:15,504 - hotkeys - INFO - Mened¿er skrótów klawiszowych zainicjowany
+2025-04-15 00:09:15,755 - hotkeys - INFO - Uruchomiono nas³uchiwanie skrótu klawiszowego: f9
+2025-04-15 00:09:15,755 - main - INFO - Aplikacja uruchomiona pomyœlnie
+2025-04-15 00:09:15,755 - main - INFO - Nas³uchiwanie skrótu przechwytywania: F9
+2025-04-15 00:09:21,030 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:09:21,030 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:09:21,030 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:09:21,031 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:09:23,900 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000923.png
+2025-04-15 00:09:23,900 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000923.png
+2025-04-15 00:09:23,907 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:09:23,907 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000923.png
+2025-04-15 00:09:23,908 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:09:23,908 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:09:23,908 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:09:23,908 - translator - INFO - Translator zainicjowany
+2025-04-15 00:09:23,908 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_000923.png
+2025-04-15 00:09:32,390 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 95.75%
+2025-04-15 00:09:32,391 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:09:32,391 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:09:33,216 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:09:33,216 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:09:33,236 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:09:44,329 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:09:49,320 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:09:57,456 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,456 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,457 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,458 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,458 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,459 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,460 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,460 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,461 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,462 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,462 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,463 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,464 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,464 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,465 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,465 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,466 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,467 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,467 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,468 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,469 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,469 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,470 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:57,471 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:09:58,983 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:09:58,984 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:09:58,984 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:09:58,984 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:10:02,842 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001002.png
+2025-04-15 00:10:02,842 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001002.png
+2025-04-15 00:10:02,851 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:10:02,851 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001002.png
+2025-04-15 00:10:02,851 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:10:02,852 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:10:02,852 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:10:02,852 - translator - INFO - Translator zainicjowany
+2025-04-15 00:10:02,852 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001002.png
+2025-04-15 00:10:03,134 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 0 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,170 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 0 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,205 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 0 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,240 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 1 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,274 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 1 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,308 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 1 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,351 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 2 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,393 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 2 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,435 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 2 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,469 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 3 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,504 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 3 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,538 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 3 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,571 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 4 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,605 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 4 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,639 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 4 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,674 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 5 z PSM 6: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,709 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 5 z PSM 4: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,744 - ocr_engine - WARNING - B³¹d podczas rozpoznawania wariantu 5 z PSM 3: (1, 'Error opening data file C:\\Users\\fijal\\Desktop\\ScreenOCR/eng.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'eng\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-04-15 00:10:03,744 - ocr_engine - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-15 00:10:03,744 - screenshot - WARNING - Nie rozpoznano tekstu na obrazie
+2025-04-15 00:10:03,745 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:10:03,754 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:10:05,440 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:10:09,936 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:10:14,512 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,512 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,513 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,514 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,514 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,515 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,516 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,516 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,517 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,518 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,518 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,519 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,519 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,520 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,521 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,521 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,522 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,523 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,523 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,524 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,524 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,525 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,526 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:14,526 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:10:15,406 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:10:15,406 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:10:15,406 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:10:15,406 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:10:18,233 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001018.png
+2025-04-15 00:10:18,234 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001018.png
+2025-04-15 00:10:18,242 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:10:18,242 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001018.png
+2025-04-15 00:10:18,242 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:10:18,242 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:10:18,242 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:10:18,242 - translator - INFO - Translator zainicjowany
+2025-04-15 00:10:18,242 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001018.png
+2025-04-15 00:10:26,784 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 95.75%
+2025-04-15 00:10:26,784 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:10:26,784 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:10:26,868 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:10:26,869 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:10:26,885 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:10:56,894 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:11:02,118 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:11:02,118 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:11:02,119 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:11:02,119 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:11:06,577 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001106.png
+2025-04-15 00:11:06,577 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001106.png
+2025-04-15 00:11:06,585 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:11:06,585 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001106.png
+2025-04-15 00:11:06,586 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:11:06,586 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:11:06,586 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:11:06,586 - translator - INFO - Translator zainicjowany
+2025-04-15 00:11:06,586 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001106.png
+2025-04-15 00:11:15,132 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 95.75%
+2025-04-15 00:11:15,132 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:11:15,132 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:11:15,221 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:11:15,221 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:11:15,232 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:11:22,191 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:11:27,553 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:11:34,904 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,905 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,905 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,906 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,907 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,907 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,908 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,908 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,909 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,910 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,911 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,911 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,912 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,912 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,913 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,914 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,914 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,915 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,915 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,916 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,917 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,917 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,918 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:34,919 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:11:35,926 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:11:35,926 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:11:35,926 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:11:35,926 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:11:39,713 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001139.png
+2025-04-15 00:11:39,714 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001139.png
+2025-04-15 00:11:39,721 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:11:39,722 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001139.png
+2025-04-15 00:11:39,722 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:11:39,722 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:11:39,722 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:11:39,722 - translator - INFO - Translator zainicjowany
+2025-04-15 00:11:39,722 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001139.png
+2025-04-15 00:11:48,292 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 95.75%
+2025-04-15 00:11:48,292 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:11:48,292 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:11:48,374 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:11:48,374 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:11:48,383 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:12:42,183 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:13:10,070 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:13:10,070 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:13:10,070 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:13:10,070 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:13:14,792 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001314.png
+2025-04-15 00:13:14,792 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001314.png
+2025-04-15 00:13:14,801 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001314.png
+2025-04-15 00:13:14,801 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:13:14,801 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:13:14,801 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:13:14,801 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:13:14,802 - translator - INFO - Translator zainicjowany
+2025-04-15 00:13:14,802 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001314.png
+2025-04-15 00:13:17,492 - ocr_engine - INFO - Wybrano wariant: variant_2_psm_6 z pewnoœci¹ 92.60%
+2025-04-15 00:13:17,492 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:13:17,492 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:13:17,999 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:13:18,000 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:13:18,012 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:13:29,473 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:13:39,806 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:13:39,807 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:13:39,807 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:13:39,807 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:13:42,992 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001342.png
+2025-04-15 00:13:42,992 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001342.png
+2025-04-15 00:13:43,001 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:13:43,001 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001342.png
+2025-04-15 00:13:43,002 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:13:43,002 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:13:43,002 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:13:43,002 - translator - INFO - Translator zainicjowany
+2025-04-15 00:13:43,002 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001342.png
+2025-04-15 00:13:45,563 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 96.00%
+2025-04-15 00:13:45,564 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:13:45,564 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:13:45,642 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:13:45,642 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:13:45,653 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:13:57,340 - popup - INFO - T³umaczenie skopiowane do schowka
+2025-04-15 00:13:58,280 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:14:00,126 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:14:00,126 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:14:00,126 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:14:00,127 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:14:02,552 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001402.png
+2025-04-15 00:14:02,552 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001402.png
+2025-04-15 00:14:02,560 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001402.png
+2025-04-15 00:14:02,561 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:14:02,561 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:14:02,561 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:14:02,561 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:14:02,561 - translator - INFO - Translator zainicjowany
+2025-04-15 00:14:02,561 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001402.png
+2025-04-15 00:14:05,032 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 96.00%
+2025-04-15 00:14:05,033 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:14:05,033 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:14:05,112 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:14:05,113 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:14:05,123 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:14:17,099 - popup - INFO - T³umaczenie skopiowane do schowka
+2025-04-15 00:14:18,243 - popup - INFO - T³umaczenie skopiowane do schowka
+2025-04-15 00:14:24,048 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:14:32,974 - hotkeys - INFO - Wykryto skrót przechwytywania!
+2025-04-15 00:14:32,975 - main - INFO - HOTKEY DETECTED: Wykryto skrót klawiszowy!
+2025-04-15 00:14:32,975 - screenshot - INFO - Uruchamianie procesu przechwytywania ekranu
+2025-04-15 00:14:32,975 - screenshot - INFO - Rozpoczêcie przechwytywania ekranu
+2025-04-15 00:14:37,906 - screenshot - INFO - Zrzut ekranu zapisany w: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001437.png
+2025-04-15 00:14:37,906 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001437.png
+2025-04-15 00:14:37,914 - screenshot - INFO - Przechwytywanie ekranu anulowane
+2025-04-15 00:14:37,914 - screenshot - INFO - Rozpoczêcie przetwarzania zrzutu ekranu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001437.png
+2025-04-15 00:14:37,914 - ocr_engine - INFO - Ustawiono Tesseract OCR: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tesseract.exe
+2025-04-15 00:14:37,915 - ocr_engine - INFO - Ustawiono TESSDATA_PREFIX: C:\Users\fijal\Desktop\ScreenOCR & Translator\external\Tesseract-OCR\tessdata
+2025-04-15 00:14:37,915 - ocr_engine - INFO - Silnik OCR zainicjowany
+2025-04-15 00:14:37,915 - translator - INFO - Translator zainicjowany
+2025-04-15 00:14:37,915 - ocr_engine - INFO - Przetwarzanie obrazu: C:\Users\fijal\AppData\Local\Temp\screenshot_20250415_001437.png
+2025-04-15 00:14:40,934 - ocr_engine - INFO - Wybrano wariant: variant_0_psm_6 z pewnoœci¹ 96.00%
+2025-04-15 00:14:40,934 - ocr_engine - INFO - Rozpoznawanie tekstu zakoñczone pomyœlnie
+2025-04-15 00:14:40,934 - translator - INFO - T³umaczenie tekstu silnikiem google z en na pl
+2025-04-15 00:14:41,792 - screenshot - INFO - Przetwarzanie zrzutu ekranu zakoñczone pomyœlnie
+2025-04-15 00:14:41,793 - screenshot - INFO - Wyœwietlanie popup z t³umaczeniem
+2025-04-15 00:14:41,804 - popup - INFO - Wyœwietlono popup z t³umaczeniem
+2025-04-15 00:14:50,099 - popup - INFO - T³umaczenie skopiowane do schowka
+2025-04-15 00:14:50,943 - popup - INFO - Zamkniêto popup z t³umaczeniem
+2025-04-15 00:14:58,881 - tray_icon - INFO - Wyœwietlanie okna ustawieñ
+2025-04-15 00:15:22,944 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,945 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,945 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,946 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,947 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,947 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,948 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,948 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,949 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,950 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,950 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,951 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,952 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,952 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,953 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,954 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,954 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,955 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,955 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,956 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,957 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,957 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,958 - settings - INFO - Zapisano ustawienia do pliku
+2025-04-15 00:15:22,958 - settings - INFO - Zapisano ustawienia do pliku

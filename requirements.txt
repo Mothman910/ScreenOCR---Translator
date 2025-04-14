@@ -4,6 +4,7 @@
 PyQt6>=6.5.0
 infi.systray>=0.1.12
 pynput>=1.7.6
+keyboard>=0.13.5
 
 # OCR i przetwarzanie obrazu
 pytesseract>=0.3.10

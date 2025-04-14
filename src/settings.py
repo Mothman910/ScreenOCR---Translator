@@ -39,7 +39,8 @@ class Settings:
                 'check_updates': True
             },
             'hotkeys': {
-                'capture': 'Ctrl+Shift+X',
+                'capture': 'Alt+F7',
+                'predefined_hotkeys': ['Alt+F7', 'Ctrl+Alt+T', 'F9', 'Ctrl+Alt+S', 'Alt+Z', 'Ctrl+`']
             },
             'ocr': {
                 'engine': 'tesseract',
@@ -228,13 +229,98 @@ class SettingsDialog(QDialog):
         """Konfiguracja zakładki skrótów klawiszowych."""
         layout = QFormLayout()
         
-        # Skrót do przechwytywania ekranu
+        # Skrót do przechwytywania ekranu - teraz z listą predefiniowanych opcji
+        self.capture_hotkey_combo = QComboBox()
+        
+        # Pobieranie predefiniowanych skrótów z ustawień
+        predefined_hotkeys = self.settings.get('hotkeys', 'predefined_hotkeys', 
+                                              ['Alt+F7', 'Ctrl+Alt+T', 'F9', 'Ctrl+Alt+S', 'Alt+Z', 'Ctrl+`'])
+        
+        # Dodawanie predefiniowanych skrótów do ComboBox
+        for hotkey in predefined_hotkeys:
+            self.capture_hotkey_combo.addItem(hotkey)
+        
+        # Dodanie opcji "Własny skrót..."
+        self.capture_hotkey_combo.addItem("Własny skrót...")
+        self.capture_hotkey_combo.currentTextChanged.connect(self.on_hotkey_selection_changed)
+        
+        # Pole do ręcznego wprowadzania skrótu (początkowo ukryte)
         self.capture_hotkey_edit = QLineEdit()
         self.capture_hotkey_edit.setPlaceholderText("Kliknij i naciśnij kombinację klawiszy")
         self.capture_hotkey_edit.setReadOnly(True)
-        layout.addRow("Przechwyć ekran:", self.capture_hotkey_edit)
+        self.capture_hotkey_edit.hide()  # Domyślnie ukryte
+        
+        # Przycisk do testowania skrótu klawiszowego
+        self.test_hotkey_button = QPushButton("Testuj skrót")
+        self.test_hotkey_button.clicked.connect(self.on_test_hotkey_clicked)
+        
+        # Dodanie wszystkich elementów do layoutu
+        hotkey_layout = QHBoxLayout()
+        hotkey_layout.addWidget(self.capture_hotkey_combo)
+        hotkey_layout.addWidget(self.capture_hotkey_edit)
+        hotkey_layout.addWidget(self.test_hotkey_button)
+        
+        layout.addRow("Przechwyć ekran:", hotkey_layout)
+        
+        # Dodanie wyjaśnienia odnośnie skrótów klawiszowych
+        hotkey_info = QLabel(
+            "Zalecane skróty to kombinacje rzadko używane w innych aplikacjach, "
+            "np. Alt+F7, F9 czy Ctrl+Alt+S. Jeśli skrót nie działa, spróbuj "
+            "innej kombinacji klawiszy."
+        )
+        hotkey_info.setWordWrap(True)
+        layout.addRow("", hotkey_info)
         
         self.hotkeys_tab.setLayout(layout)
+    
+    def on_hotkey_selection_changed(self, text):
+        """Obsługa zmiany wyboru skrótu klawiszowego."""
+        if text == "Własny skrót...":
+            self.capture_hotkey_edit.show()
+            self.capture_hotkey_edit.setText("")
+            self.capture_hotkey_edit.setFocus()
+        else:
+            self.capture_hotkey_edit.hide()
+            
+    def on_test_hotkey_clicked(self):
+        """Otwiera okno testowe do sprawdzenia działania skrótu klawiszowego."""
+        try:
+            # Poprawiony import z pełną ścieżką
+            import sys
+            import os
+            
+            # Dodanie katalogu src do sys.path
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            if current_dir not in sys.path:
+                sys.path.append(current_dir)
+                
+            from utils.hotkey_tester import HotkeyTesterDialog
+            
+            # Pobranie aktualnie wybranego skrótu
+            if self.capture_hotkey_combo.currentText() == "Własny skrót...":
+                hotkey = self.capture_hotkey_edit.text()
+            else:
+                hotkey = self.capture_hotkey_combo.currentText()
+                
+            # Jeśli skrót jest pusty, użyj domyślnego
+            if not hotkey:
+                hotkey = self.settings.get_hotkey('capture', 'Alt+F7')
+            
+            # Otwórz okno testowe
+            tester = HotkeyTesterDialog(hotkey, self)
+            tester.exec()
+        except ImportError as e:
+            import traceback
+            print(f"Błąd importu: {e}")
+            print(traceback.format_exc())
+            from PyQt6.QtWidgets import QMessageBox
+            QMessageBox.critical(self, "Błąd importu", f"Nie można zaimportować modułu do testowania: {e}")
+        except Exception as e:
+            import traceback
+            print(f"Błąd: {e}")
+            print(traceback.format_exc())
+            from PyQt6.QtWidgets import QMessageBox
+            QMessageBox.critical(self, "Błąd", f"Wystąpił błąd podczas testowania skrótu: {e}")
     
     def setup_ocr_tab(self):
         """Konfiguracja zakładki OCR."""
@@ -384,7 +470,21 @@ class SettingsDialog(QDialog):
         self.check_updates_check.setChecked(self.settings.get('general', 'check_updates'))
         
         # Zakładka Skróty klawiszowe
-        self.capture_hotkey_edit.setText(self.settings.get_hotkey('capture'))
+        current_hotkey = self.settings.get_hotkey('capture')
+        
+        # Szukanie skrótu na liście predefinowanych
+        found = False
+        for i in range(self.capture_hotkey_combo.count() - 1):  # Bez "Własny skrót..."
+            if self.capture_hotkey_combo.itemText(i) == current_hotkey:
+                self.capture_hotkey_combo.setCurrentIndex(i)
+                found = True
+                break
+        
+        # Jeśli skrót nie jest na liście predefinowanych, użyj opcji "Własny skrót..."
+        if not found:
+            self.capture_hotkey_combo.setCurrentIndex(self.capture_hotkey_combo.count() - 1)  # Ostatni element
+            self.capture_hotkey_edit.setText(current_hotkey)
+            self.capture_hotkey_edit.show()
         
         # Zakładka OCR
         self.set_combo_by_value(self.ocr_engine_combo, self.settings.get('ocr', 'engine'))
@@ -421,7 +521,12 @@ class SettingsDialog(QDialog):
         self.settings.set('general', 'check_updates', self.check_updates_check.isChecked())
         
         # Zakładka Skróty klawiszowe
-        self.settings.set_hotkey('capture', self.capture_hotkey_edit.text())
+        if self.capture_hotkey_combo.currentText() == "Własny skrót...":
+            if self.capture_hotkey_edit.text():
+                self.settings.set_hotkey('capture', self.capture_hotkey_edit.text())
+            # Jeśli pole własnego skrótu jest puste, zachowujemy poprzednią wartość
+        else:
+            self.settings.set_hotkey('capture', self.capture_hotkey_combo.currentText())
         
         # Zakładka OCR
         self.settings.set('ocr', 'engine', self.get_combo_value(self.ocr_engine_combo))

@@ -217,6 +217,9 @@ class ScreenshotOverlay(QWidget):
             # Emitowanie sygnału z ścieżką do zrzutu
             self.screenshot_taken.emit(file_path)
             
+            # Jawne zwolnienie zasobów, aby zmniejszyć użycie pamięci
+            cropped_screenshot = None
+            
             # Zamknięcie nakładki
             self.close_overlay()
             
@@ -228,6 +231,11 @@ class ScreenshotOverlay(QWidget):
         """Zamyka nakładkę."""
         self.rubber_band.hide()
         self.toolbar.hide()
+        
+        # Jawne zwolnienie zasobów
+        if self.screenshot:
+            self.screenshot = None
+            
         self.hide()
         self.canceled.emit()
 

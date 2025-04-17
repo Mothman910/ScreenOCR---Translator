@@ -1,0 +1,53 @@
+# Foldery dystrybucyjne
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pliki środowiskowe
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Pliki logów
+*.log
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Pliki tymczasowe
+*.tmp
+*.bak
+
+# Duże pliki (>100MB)
+# Automatyczne wykluczanie dużych plików (>100MB)
+# Git LFS może być lepszym rozwiązaniem dla takich plików
+*.weights
+*.h5
+*.onnx
+*.pth
+*.bin
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+*.exe
+
+# Folder external z zależnościami zewnętrznymi
+external/Tesseract-OCR/*.dll
+
+# Pliki dystrybucyjne
+*.spec
+dist/

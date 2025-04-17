@@ -8,6 +8,7 @@ ScreenOCR & Translator - Narzędzie do rozpoznawania i tłumaczenia tekstu z ekr
 import sys
 import os
 import logging
+from datetime import datetime
 from PyQt6.QtWidgets import QApplication
 from PyQt6.QtGui import QIcon
 
@@ -15,7 +16,11 @@ from PyQt6.QtGui import QIcon
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PARENT_DIR = os.path.dirname(BASE_DIR)
 RESOURCES_DIR = os.path.join(PARENT_DIR, 'resources')
+LOGS_DIR = os.path.join(PARENT_DIR, 'logs')
 ICON_PATH = os.path.join(PARENT_DIR, 'icon.ico')
+
+# Utworzenie katalogu na logi, jeśli nie istnieje
+os.makedirs(LOGS_DIR, exist_ok=True)
 
 # Dodanie ścieżki do modułów
 sys.path.append(BASE_DIR)
@@ -26,8 +31,9 @@ from settings import Settings
 from utils.hotkeys import HotkeyManager  # Dodanie importu menedżera skrótów
 
 # Konfiguracja loggingu
+log_file = os.path.join(LOGS_DIR, f'app_{datetime.now().strftime("%Y%m%d")}.log')
 logging.basicConfig(
-    filename=os.path.join(PARENT_DIR, 'app.log'),
+    filename=log_file,
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )

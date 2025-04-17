@@ -477,7 +477,17 @@ class SettingsDialog(QDialog):
         tesseract_layout.addWidget(self.tesseract_path_edit)
         tesseract_layout.addWidget(self.tesseract_path_button)
         
-        layout.addRow("Ścieżka do Tesseract:", tesseract_layout)
+        # Dodanie opisu dla ścieżki do Tesseract
+        tesseract_description = QLabel(
+            "Wybierz plik wykonywalny tesseract.exe. Zwykle znajduje się on w folderze instalacyjnym Tesseract-OCR."
+        )
+        tesseract_description.setWordWrap(True)
+        
+        tesseract_full_layout = QVBoxLayout()
+        tesseract_full_layout.addLayout(tesseract_layout)
+        tesseract_full_layout.addWidget(tesseract_description)
+        
+        layout.addRow("Ścieżka do Tesseract:", tesseract_full_layout)
         
         # Ścieżka do danych tessdata
         self.tessdata_path_edit = QLineEdit()
@@ -489,7 +499,17 @@ class SettingsDialog(QDialog):
         tessdata_layout.addWidget(self.tessdata_path_edit)
         tessdata_layout.addWidget(self.tessdata_path_button)
         
-        layout.addRow("Ścieżka do tessdata:", tessdata_layout)
+        # Dodanie opisu dla ścieżki do tessdata
+        tessdata_description = QLabel(
+            "Wybierz folder tessdata zawierający pliki językowe Tesseract. Zwykle znajduje się on w folderze instalacyjnym Tesseract-OCR."
+        )
+        tessdata_description.setWordWrap(True)
+        
+        tessdata_full_layout = QVBoxLayout()
+        tessdata_full_layout.addLayout(tessdata_layout)
+        tessdata_full_layout.addWidget(tessdata_description)
+        
+        layout.addRow("Ścieżka do tessdata:", tessdata_full_layout)
         
         self.advanced_tab.setLayout(layout)
     
@@ -614,8 +634,13 @@ class SettingsDialog(QDialog):
             self.update_color_button(self.text_color_button, color.name())
     
     def select_tesseract_path(self):
-        """Wybór ścieżki do Tesseract OCR."""
-        path = QFileDialog.getExistingDirectory(self, "Wybierz ścieżkę do Tesseract OCR")
+        """Wybór ścieżki do pliku wykonywalnego Tesseract OCR."""
+        path, _ = QFileDialog.getOpenFileName(
+            self, 
+            "Wybierz plik wykonywalny Tesseract OCR", 
+            "", 
+            "Pliki wykonywalne (*.exe);;Wszystkie pliki (*.*)"
+        )
         if path:
             self.tesseract_path_edit.setText(path)
     

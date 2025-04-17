@@ -81,7 +81,7 @@ class TranslationPopup(QWidget):
         # Kontener dla oryginalnego tekstu
         self.original_container = QWidget()
         self.original_container_layout = QVBoxLayout(self.original_container)
-        self.original_container_layout.setContentsMargins(0, 0, 10, 0)  # Dodajemy prawy margines dla paska przewijania
+        self.original_container_layout.setContentsMargins(5, 5, 15, 5)  # Dodany dodatkowy prawy margines dla paska przewijania
         
         # Etykieta z oryginalnym tekstem
         self.original_label = QLabel()
@@ -109,7 +109,7 @@ class TranslationPopup(QWidget):
         # Kontener dla tłumaczenia
         self.translation_container = QWidget()
         self.translation_container_layout = QVBoxLayout(self.translation_container)
-        self.translation_container_layout.setContentsMargins(0, 0, 10, 0)  # Dodajemy prawy margines dla paska przewijania
+        self.translation_container_layout.setContentsMargins(5, 5, 15, 5)  # Dodany dodatkowy prawy margines dla paska przewijania
         
         # Etykieta z tłumaczeniem
         self.translation_label = QLabel()
@@ -185,8 +185,7 @@ class TranslationPopup(QWidget):
                 border: none;
                 background: rgba(0, 0, 0, 0.1);
                 width: 8px;
-                margin: 0px 0px 0px 0px;
-                border-radius: 4px;
+                margin: 0px;
             }}
             QScrollBar::handle:vertical {{
                 background: rgba({text_color}, 0.5);
@@ -200,8 +199,7 @@ class TranslationPopup(QWidget):
                 border: none;
                 background: rgba(0, 0, 0, 0.1);
                 height: 8px;
-                margin: 0px 0px 0px 0px;
-                border-radius: 4px;
+                margin: 0px;
             }}
             QScrollBar::handle:horizontal {{
                 background: rgba({text_color}, 0.5);
@@ -210,10 +208,6 @@ class TranslationPopup(QWidget):
             }}
             QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {{
                 width: 0px;
-            }}
-            QScrollArea {{
-                border: none;
-                background: transparent;
             }}
         """
         self.setStyleSheet(style_sheet)

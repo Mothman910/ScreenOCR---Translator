@@ -17,7 +17,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PARENT_DIR = os.path.dirname(BASE_DIR)
 RESOURCES_DIR = os.path.join(PARENT_DIR, 'resources')
 LOGS_DIR = os.path.join(PARENT_DIR, 'logs')
-ICON_PATH = os.path.join(PARENT_DIR, 'icon.ico')
+ICON_PATH = os.path.join(RESOURCES_DIR, 'icons', 'icon.ico')
 
 # Utworzenie katalogu na logi, jeśli nie istnieje
 os.makedirs(LOGS_DIR, exist_ok=True)
